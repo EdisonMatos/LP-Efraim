@@ -16,7 +16,7 @@ export default function Features({
   button,
   paragraphsModal,
   defaultFeature,
-}) {
+}) { 
   return (
     <>
       {modalWithCards && <FeaturesModalWithCards colorMode={colorMode} />}
