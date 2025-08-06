@@ -75,7 +75,7 @@ export const infos = {
   endereco: (
     <div>
       <p>Endereço:</p>
-      <p>Avenida Paulista, nº 770,</p>
+      <p>Avenida Paulista, nº 777, </p>
       <p>10º andar,</p>
       <p>sala 102 São Paulo - SP,</p>
       <p>CEP 01310-930.</p>
